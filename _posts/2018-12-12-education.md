@@ -1,6 +1,6 @@
 ---
 title: "수업/인강"
-date: 2018-12-012 08:26:28
+date: 2018-12-12 11:26:28
 categories: jekyll update
 ---
 
