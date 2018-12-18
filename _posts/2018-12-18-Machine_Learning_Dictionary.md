@@ -29,6 +29,8 @@ categories: jekyll update
 # L
 
 # M
+## mAP (mean Average Precision)
+[참조](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-how-to-measure-performance-of-object-detection/)
 
 # N
 
