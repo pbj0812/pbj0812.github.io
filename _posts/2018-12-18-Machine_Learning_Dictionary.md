@@ -26,6 +26,10 @@ categories: jekyll update
 # F
 
 # G
+## GMM (Gaussian Mixture Model)
+ - k개의 정규분포를 섞어서 만든 모델
+ 
+[참조](https://3months.tistory.com/154)
 
 # H
 
