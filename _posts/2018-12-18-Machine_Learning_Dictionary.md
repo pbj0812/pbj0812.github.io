@@ -32,7 +32,7 @@ categories: jekyll update
 ## mAP (mean Average Precision)
 [참조](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-how-to-measure-performance-of-object-detection/)
 ## MAP (Maximum a Posteriori Estimation)
- - $$ y_t $$
+ - θ가 주어지고, 그 θ에 대한 데이터들의 확률을 최대화하는 것이 아닌, 주어진 데이터에 대해 최대 확률을 가지는 θ를 찾음
 
 [참조](http://sanghyukchun.github.io/58/)
 ## MLE (Maximum Likelihood Estimation)
