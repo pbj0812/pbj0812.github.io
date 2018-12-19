@@ -28,8 +28,10 @@ categories: jekyll update
 # G
 ## GMM (Gaussian Mixture Model)
  - k개의 정규분포를 섞어서 만든 모델
+ - 기존의 가우시안 확률분포는 하나의 그룹으로 뭉쳐있는 형태만을 표현가능하다는 제약이 있음
  
-[참조](https://3months.tistory.com/154)
+[참조1](https://3months.tistory.com/154)
+[참조2](http://iskim3068.tistory.com/52)
 
 # H
 
