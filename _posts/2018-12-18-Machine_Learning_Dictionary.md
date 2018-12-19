@@ -9,6 +9,7 @@ categories: jekyll update
 # B
 ## Bayes' Theorem
  - 데이터에 대한 적절한 가정이 있다면 관측한 데이터만을 사용하는 것 보다 더 우수한 parameter estimation을 가능하게 함.
+ 
 [참조](http://sanghyukchun.github.io/58/)
 
 # C
