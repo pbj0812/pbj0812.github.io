@@ -18,22 +18,7 @@ categories: jekyll update
 [참조](http://arkainoh.blogspot.com/2017/10/parametric.learning.maximum.likelihood.estimation.html)
 
 # C
-## Conditional Entropy
- - 조건부 확률 p(x&#124;y)의 개념을 Entropy로도 확장하여 적용한 것
- - y라는 사건이 일어났을 때, x의 불확실성을 측정한 것
- - H(X&#124;Y) = H(X,Y) - H(Y)
- 
- [참조](http://newsight.tistory.com/119)
-## Cross Entropy
- - Joint Entropy : 하나의 확률 분포 p에 대해서 X와 Y 두 개의 사건이 갖는 정보량
- - Cross Entropy : 두 개의 확률 분포 p와 q에 대해 하나의 사건 X가 갖는 정보량
- 
-<figure>
-	<img src="{{ '/assets/img/fig_cross_entropy.png' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Cross Entropy</figcaption>
-</figure>
- 
- [참조](http://newsight.tistory.com/119)
+
 # D
 
 # E
@@ -52,11 +37,10 @@ categories: jekyll update
 
 <figure>
 	<img src="{{ '/assets/img/fig_entrophy.png' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Entropy</figcaption>
+	<figcaption>Entrophy</figcaption>
 </figure>
 
 [참조](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
-[참조](http://untitledtblog.tistory.com/119)
 
 # F
 
@@ -73,19 +57,18 @@ categories: jekyll update
 # I
 
 # J
-## Joint Entropy
- - 확률 p(x,y)에 대한 엔트로피, 교집합의 엔트로피
- - x와 y가 서로 독립이라면, H(x, y) = H(x) + H(y)
-
-<figure>
-	<img src="{{ '/assets/img/fig_joint_entrophy.png' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Joint_Entropy</figcaption>
-</figure>
-
-[참조](http://newsight.tistory.com/119)
 
 # K
-
+## KL Divergence(=relative entropy, information gain)
+ - 두 확률 분포 p, q 간의 거리를 측정하는 방법
+ - p(x)와 q(x)의 값이 항상 같을 경우, 정보량에 해당하는 부분은 항상 값이 1이 됨 => 두 분포간의 거리가 0인 것을 의미함
+ 
+<figure>
+	<img src="{{ '/assets/img/fig_kl_divergence.png' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>KL Divergence</figcaption>
+</figure>
+ 
+[참조](http://newsight.tistory.com/119)
 # L
 ## Likelihood
  - 가능도
@@ -112,12 +95,7 @@ categories: jekyll update
  - 확률변수 x가 다항분포를 따름
  
 [참조](http://arkainoh.blogspot.com/2017/10/parametric.learning.maximum.likelihood.estimation.html)
-## Mutual Information
- - X와 Y가 서로 독립인지 아닌지에 대한 정도를 정보량으로 측정한 것
- - X,Y 변수가 서로에 의해서 영향받는 정도를 정보량으로 측정한 
  
-[참조](http://newsight.tistory.com/119)
-
 # N
 
 # O
