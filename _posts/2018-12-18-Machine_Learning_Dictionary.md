@@ -34,7 +34,6 @@ categories: jekyll update
  - 단위 : 비트
  - 모든 결과물이 동등하게 나오는 최대치
  - 정보의 엔트로피가 떨어진다면 결과물을 추측하 위한 질문을 적게 해도 된다는 것을 뜻함
- https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy
 [참조](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
 
 # F
