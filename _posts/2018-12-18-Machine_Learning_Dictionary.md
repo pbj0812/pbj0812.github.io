@@ -57,6 +57,9 @@ categories: jekyll update
 # I
 
 # J
+## Joint Entropy
+
+[Joint Entroy]('/assets/img/fig_joint_entrophy.png')
 
 # K
 
