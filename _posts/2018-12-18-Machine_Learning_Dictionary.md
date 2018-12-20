@@ -24,7 +24,16 @@ categories: jekyll update
  - H(X|Y) = H(X,Y) - H(Y)
  
  [참조](http://newsight.tistory.com/119)
-
+## Cross Entropy
+ - Joint Entropy : 하나의 확률 분포 p에 대해서 X와 Y 두 개의 사건이 갖는 정보량
+ - Cross Entropy : 두 개의 확률 분포 p와 q에 대해 하나의 사건 X가 갖는 정보량
+ 
+<figure>
+	<img src="{{ '/assets/img/fig_cross_entropy.png' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Cross Entropy</figcaption>
+</figure>
+ 
+ [참조](http://newsight.tistory.com/119)
 # D
 
 # E
