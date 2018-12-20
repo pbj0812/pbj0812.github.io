@@ -23,7 +23,7 @@ categories: jekyll update
 
 # E
 ## EM 알고리즘
- - 모델 파라미터의 초기값을 임의로 설정(θ^old 값)
+ - 모델 파라미터의 초기값을 임의로 설정(θ^old 값) A^a A^^a
 
 # F
 
