@@ -18,6 +18,12 @@ categories: jekyll update
 [참조](http://arkainoh.blogspot.com/2017/10/parametric.learning.maximum.likelihood.estimation.html)
 
 # C
+## Conditional Entropy
+ - 조건부 확률 p(x|y)의 개념을 Entropy로도 확장하여 적용한 것
+ - y라는 사건이 일어났을 때, x의 불확실성을 측정한 것
+ - H(X|Y) = H(X,Y) - H(Y)
+ 
+ [참조](http://newsight.tistory.com/119)
 
 # D
 
@@ -41,6 +47,7 @@ categories: jekyll update
 </figure>
 
 [참조](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
+[참조](http://untitledtblog.tistory.com/119)
 
 # F
 
