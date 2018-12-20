@@ -19,9 +19,9 @@ categories: jekyll update
 
 # C
 ## Conditional Entropy
- - 조건부 확률 p(x|y)의 개념을 Entropy로도 확장하여 적용한 것
+ - 조건부 확률 p(x&#124;y)의 개념을 Entropy로도 확장하여 적용한 것
  - y라는 사건이 일어났을 때, x의 불확실성을 측정한 것
- - H(X|Y) = H(X,Y) - H(Y)
+ - H(X&#124;Y) = H(X,Y) - H(Y)
  
  [참조](http://newsight.tistory.com/119)
 ## Cross Entropy
