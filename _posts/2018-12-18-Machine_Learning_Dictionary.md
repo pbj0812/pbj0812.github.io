@@ -37,7 +37,7 @@ categories: jekyll update
 
 <figure>
 	<img src="{{ '/assets/img/fig_entrophy.png' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Entrophy</figcaption>
+	<figcaption>Entropy</figcaption>
 </figure>
 
 [참조](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
@@ -58,8 +58,15 @@ categories: jekyll update
 
 # J
 ## Joint Entropy
+ - 확률 p(x,y)에 대한 엔트로피, 교집합의 엔트로피
+ - x와 y가 서로 독립이라면, H(x, y) = H(x) + H(y)
 
-[Joint Entroy]('/assets/img/fig_joint_entrophy.png')
+<figure>
+	<img src="{{ '/assets/img/fig_joint_entrophy.png' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Joint_Entropy</figcaption>
+</figure>
+
+[참조](http://newsight.tistory.com/119)
 
 # K
 
