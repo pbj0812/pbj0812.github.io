@@ -55,8 +55,9 @@ categories: jekyll update
 	<figcaption>Entropy</figcaption>
 </figure>
 
-[참조](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
-[참조](http://untitledtblog.tistory.com/119)
+[참조1](https://ko.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
+
+[참조2](http://untitledtblog.tistory.com/119)
 
 # F
 
