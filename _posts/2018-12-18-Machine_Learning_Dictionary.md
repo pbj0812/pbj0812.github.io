@@ -103,7 +103,12 @@ categories: jekyll update
  - 확률변수 x가 다항분포를 따름
  
 [참조](http://arkainoh.blogspot.com/2017/10/parametric.learning.maximum.likelihood.estimation.html)
+## Mutual Information
+ - X와 Y가 서로 독립인지 아닌지에 대한 정도를 정보량으로 측정한 것
+ - X,Y 변수가 서로에 의해서 영향받는 정도를 정보량으로 측정한 
  
+[참조](http://newsight.tistory.com/119)
+
 # N
 
 # O
