@@ -1,5 +1,5 @@
 ---
-title: "딥러닝 AtoZ"
+title: "머신러닝 AtoZ"
 date: 2018-12-18 11:18:28
 categories: jekyll update
 ---
@@ -22,6 +22,8 @@ categories: jekyll update
 # D
 
 # E
+## EM 알고리즘
+ - 모델 파라미터의 초기값을 임의로 설정(θ^old 값)
 
 # F
 
