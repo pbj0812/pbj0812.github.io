@@ -4,7 +4,7 @@ date: 2018-12-12 11:26:28
 categories: jekyll update
 ---
 
-수학/물리/통계 이론
+수학/물리/통계 이론 
 
 | <center>강의명</center> |<center> 기간</center> | <center>강사</center>  | <center>수업완료</center> | <center>플랫폼</center> |
 |:--------|:--------:|--------:|--------:|--------:|
