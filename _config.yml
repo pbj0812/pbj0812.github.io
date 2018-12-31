@@ -23,7 +23,7 @@ description              : "---"
 url                      : "https://pbj0812.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/bg/test.jpg" #500*300
+teaser                   : "/assets/bg/test2.jpg" #500*300
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
