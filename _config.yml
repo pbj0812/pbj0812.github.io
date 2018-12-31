@@ -104,10 +104,10 @@ analytics:
 # Site Author
 author:
   name             : "pbj0812"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bg/test.jpg"
   bio              : "I do not know anything"
   location         : "I am home"
-  email            :
+  email            : "pbj00812@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
