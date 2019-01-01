@@ -23,13 +23,13 @@ description              : "---"
 url                      : "https://pbj0812.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/bg/test2.jpg" #500*300
+teaser                   : # "/assets/bg/test2.jpg" #500*300
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"  #false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : #false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : https://pbj0812.disqus.com/admin/moderate/#/pending
+    shortname            : # https://pbj0812.disqus.com/admin/moderate/#/pending
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
