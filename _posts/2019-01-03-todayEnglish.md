@@ -39,3 +39,6 @@ categories: jekyll update
  
 11. I used to work with Oogway.
  - 우그웨이와 예전에 일했었어요.
+ 
+12. Look, the kids are finally getting along.
+ - 애들이 잘 지내고 있어요.
