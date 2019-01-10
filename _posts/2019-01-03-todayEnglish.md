@@ -42,3 +42,10 @@ categories: jekyll update
  
 12. Look, the kids are finally getting along.
  - 애들이 잘 지내고 있어요.
+ 
+13. boomer
+ - 안됐구나, 저런
+ - 집이 탔다거나 하는 나쁜 일에는 쓰면 욕 먹음
+ 
+14. What's it says?
+ - 머라고 써있니
